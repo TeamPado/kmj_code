@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "bow01",
+      "itemName": "High Quality Bow",
+      "itemType": "Equipment",
+      "quantity": 1,
+      "description": "An expertly engineered bow.",
+      "stats": "+5 piercing damage",
+      "cost": 500,
+      "requiredLevel": 1,
+      "iconName": "Bow03"
+    },
+    {
+      "id": "potion01",
+      "itemName": "Red Potion",
+      "itemType": "Consumable",
+      "quantity": 3,
+      "description": "Restores HP.",
+      "stats": "+30 HP",
+      "cost": 50,
+      "requiredLevel": 1,
+      "iconName": "Potion01"
+    },
+    {
+      "id": "helmet01",
+      "itemName": "High Quality Helmet",
+      "itemType": "Equipment",
+      "quantity": 1,
+      "description": "An expertly engineered helmet.",
+      "stats": "+5 defense",
+      "cost": 500,
+      "requiredLevel": 1,
+      "iconName": "Helmet01"
+    },
+    {
+  "id": "gold001",
+  "itemName": "Gold",
+  "itemType": "Currency",
+  "quantity": 100,
+  "description": "Shiny gold coins",
+  "stats": "+100 Gold",
+  "cost": 0,
+  "requiredLevel": 0,
+  "iconName": "Bar01Outlined"
+}
+  ]
+}
